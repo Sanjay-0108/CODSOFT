@@ -27,3 +27,7 @@
 - Furthermore, the evaluation of machine learning models revealed that K-Nearest Neighbors (KNN) outperformed other classification models, with an impressive accuracy of 97% on unseen data, highlighting the model's robustness.
 - Our results highlight the effectiveness of machine learning techniques in automating species classification based on morphological attributes, contributing to the fields of botany, ecology, and beyond.
 
+## Author
+
+Sanjay R
+Mail id: sanjaydhanush0108@gmail.com
